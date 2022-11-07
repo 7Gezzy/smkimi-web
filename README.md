@@ -1,1 +1,1 @@
-# yoga-landing-starter
+# smk-imi-web
